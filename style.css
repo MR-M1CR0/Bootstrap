@@ -1,0 +1,43 @@
+body {
+  font-family: 'Rubik', 'Poppins', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  color: #333;
+}
+
+.custom-btn {
+  color: #0b132a !important;
+  text-decoration: none !important;
+}
+
+.custom-btn:hover {
+  text-decoration: underline !important;
+}
+
+.active-nav-link {
+  color: #f53838 !important;
+}
+
+h1,
+h2 {
+  color: #0b132a !important;
+}
+
+.get-btn {
+  font-size: 16px !important;
+  font-weight: bold !important;
+  transition: all 0.3s ease-in-out !important;
+}
+
+.get-btn:hover {
+  transform: translate(0, -5px);
+}
+
+a {
+  color: #4f5665;
+}
+
+.flex-center {
+  justify-content: center;
+  align-items: center;
+}
